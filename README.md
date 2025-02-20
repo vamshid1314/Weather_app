@@ -15,7 +15,6 @@ A simple and responsive **Flutter weather app** that fetches real-time weather d
 
 ## 📲 Installation  
 1️⃣ Clone this repository:  
-   ```sh
    git clone https://github.com/your-username/weather_app.git
    cd weather_app
 2️⃣ Install dependencies:
